@@ -1,0 +1,12 @@
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\bin\Debug\net7.0\calculos.deps.json
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\bin\Debug\net7.0\calculos.dll
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\bin\Debug\net7.0\calculos.pdb
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\calculos.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\calculos.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\calculos.AssemblyInfo.cs
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\calculos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\calculos.dll
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\refint\calculos.dll
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\calculos.pdb
+C:\Users\guilh\Desktop\FaculdadeeCursos\ADS\MATÉRIAS\3º SEMESTRE\PROGRAMAÇÃO ORIENTADA A OBJETO\AULAS\ex no vs\exercicios_c#_complemento\areas_geometricas\index\calculos\obj\Debug\net7.0\ref\calculos.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "index/1.0.0": {
+        "dependencies": {
+          "calculos": "1.0.0"
+        },
+        "runtime": {
+          "index.dll": {}
+        }
+      },
+      "calculos/1.0.0": {
+        "runtime": {
+          "calculos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "index/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "calculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
